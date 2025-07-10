@@ -1,0 +1,9 @@
+Add a Requirements
+
+Here’s what your requirements should contain:
+
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
