@@ -36,14 +36,18 @@ The notebook includes **downloaded code and output**, making it easier to unders
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/ProfessionalProgrammer95/Python_Iris_Classifier.git
+
+
+git clone https://github.com/ProfessionalProgrammer95/Python_Iris_Classifier.git,
+
 cd iris-classifier
 
 
 ## 2. Create Virtual Environment (Optional but recommended)
 bash
 
-python -m venv venv
+python -m venv venv,
+
 venv\Scripts\activate       # Windows
 
 
